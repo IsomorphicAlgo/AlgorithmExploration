@@ -1,2 +1,1 @@
-This is intended to explore and inform on the Binary Search Algorithm using python. 
-The goal is to add this to a series displaying various algorithms and their benifits / uses.
+The goal of this repository is to provide a detailed exploration of various agorithms for educational purposes.
